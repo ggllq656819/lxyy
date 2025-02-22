@@ -2,9 +2,9 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,tv.91muou.icu
-DOMAIN-SUFFIX,mo.666291.xyz
-DOMAIN-SUFFIX,mo.muouso.fun
+DOMAIN-SUFFIX,91muou.icu
+DOMAIN-SUFFIX,666291.xyz
+DOMAIN-SUFFIX,muouso.fun
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,91muou.icu
@@ -13,7 +13,7 @@ DOMAIN-KEYWORD,muouso.fun
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
-
+IP-CIDR,39.108.173.45/32,no-resolve
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
