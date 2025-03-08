@@ -2,8 +2,13 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,banye.tech
+DOMAIN-SUFFIX,mogg.banye.tech
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,mogg
+DOMAIN-KEYWORD,banye
+
 # IP段匹配
 
 # 国外DNS
